@@ -7,7 +7,7 @@ Paper list for SNN based computer vision tasks.
 
 
 ## Survey && Reviews: 
-1. 神经形态视觉传感器的研究进展及应用综述，计算机学报，李家宁 田永鸿 [[Paper](https://pkuml.org/)]
+1. 神经形态视觉传感器的研究进展及应用综述，计算机学报，李家宁 田永鸿 [[Paper](https://drive.google.com/file/d/1d7igUbIrEWxmUI7xq75P6h_I4H7uI3FA/view?usp=sharing]
 
 
 
