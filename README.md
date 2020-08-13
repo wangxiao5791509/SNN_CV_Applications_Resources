@@ -25,6 +25,8 @@ SNN-toolbox: [[Document](https://snntoolbox.readthedocs.io/en/latest/#)] [[Githu
 
 "A large scale event-based detection dataset for automotive." de Tournemire, Pierre, et al.  arXiv (2020): arXiv-2001. [[Paper](https://arxiv.org/pdf/2001.08499.pdf)] [[Dataset](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)]
 
+"Event-based Asynchronous Sparse Convolutional Networks." Messikommer, Nico, et al.  arXiv preprint arXiv:2003.09148 (2020). [[Paper](http://rpg.ifi.uzh.ch/docs/ECCV20_Messikommer.pdf)] [[Youtube](https://www.youtube.com/watch?v=VD7Beh_-7eU)] [[Code](https://github.com/uzh-rpg/rpg_asynet)]
+
 
 
 ## Visual Tracking: 
