@@ -4,7 +4,9 @@ Paper list for SNN based computer vision tasks.
 
 ## Related Resources: 
 Event-based Vision, Event Cameras, Event Camera SLAM [[ETH page](http://rpg.ifi.uzh.ch/research_dvs.html)] 
+
 The Event-Camera Dataset and Simulator:Event-based Data for Pose Estimation, Visual Odometry, and SLAM [[ETH page](http://rpg.ifi.uzh.ch/davis_data.html)] 
+
 Event-based Vision Resources [[Github](https://github.com/uzh-rpg/event-based_vision_resources)]
 
 
