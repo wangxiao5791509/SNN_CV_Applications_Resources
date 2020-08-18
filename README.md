@@ -36,6 +36,10 @@ SNN-toolbox: [[Document](https://snntoolbox.readthedocs.io/en/latest/#)] [[Githu
 
 
 ## Visual Tracking: 
+High-Speed Object Tracking with Dynamic Vision Sensor. Wu, J., Zhang, K., Zhang, Y., Xie, X., & Shi, G. (2018, October).  In China High Resolution Earth Observation Conference (pp. 164-174). Springer, Singapore. [[Paper](https://sci-hub.st/https://link.springer.com/chapter/10.1007/978-981-13-6553-9_18)]
+
+High-speed object tracking with its application in golf playing. Lyu, C., Liu, Y., Jiang, X., Li, P., & Chen, H. (2017).  International Journal of Social Robotics, 9(3), 449-461. [[Paper](https://sci-hub.tw/10.1007/s12369-017-0404-0)] 
+
 A Spiking Neural Network Architecture for Object Tracking. Luo, Yihao, et al.  International Conference on Image and Graphics. Springer, Cham, 2019. [[Paper](https://sci-hub.st/10.1007/978-3-030-34120-6)] 
 
 SiamSNN: Spike-based Siamese Network for Energy-Efficient and Real-time Object Tracking, Yihao Luo, Min Xu, Caihong Yuan, Xiang Cao, Liangqi Zhang, Yan Xu, Tianjiang Wang and Qi Feng [[Paper](https://arxiv.org/pdf/2003.07584.pdf)]
