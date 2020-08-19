@@ -22,6 +22,8 @@ SNN-toolbox: [[Document](https://snntoolbox.readthedocs.io/en/latest/#)] [[Githu
 
 
 
+## Object Recognition: 
+TactileSGNet: A Spiking Graph Neural Network for Event-based Tactile Object Recognition, Fuqiang Gu, Weicong Sng, Tasbolat Taunyazov, and Harold Soh [[Paper](https://arxiv.org/pdf/2008.08046.pdf)] [[Code](https://github.com/clear-nus/TactileSGNet)]
 
  
 
