@@ -34,7 +34,9 @@ Slayer: Spike layer error reassignment in time. Shrestha, Sumit Bam, and Garrick
 
 RMP-SNN: Residual Membrane Potential Neuron for Enabling Deeper High-Accuracy and Low-Latency Spiking Neural Network, [[cvpr-2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Han_RMP-SNN_Residual_Membrane_Potential_Neuron_for_Enabling_Deeper_High-Accuracy_and_CVPR_2020_paper.pdf)] 
 
-Retina-Like Visual Image Reconstruction via Spiking Neural Model, Lin Zhu, Siwei Dong, Jianing Li, Tiejun Huang, Yonghong Tian [[cvpr-2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Retina-Like_Visual_Image_Reconstruction_via_Spiking_Neural_Model_CVPR_2020_paper.pdf)]
+Retina-Like Visual Image Reconstruction via Spiking Neural Model, Lin Zhu, Siwei Dong, Jianing Li, Tiejun Huang, Yonghong Tian [[cvpr-2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Retina-Like_Visual_Image_Reconstruction_via_Spiking_Neural_Model_CVPR_2020_paper.pdf)] 
+
+Biologically inspired alternatives to backpropagation through time for learning in recurrent neural nets. Bellec, G., Scherr, F., Hajek, E., Salaj, D., Legenstein, R., & Maass, W. (2019).  arXiv preprint arXiv:1901.09049. [[Paper](https://arxiv.org/pdf/1901.09049.pdf)]
 
 
 
