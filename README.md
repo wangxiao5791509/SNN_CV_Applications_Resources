@@ -53,5 +53,14 @@ Event-guided structured output tracking of fast-moving objects using a CeleX sen
 EKLT: Asynchronous photometric feature tracking using events and frames." Gehrig, Daniel, et al.  International Journal of Computer Vision 128.3 (2020): 601-618. [[Paper](https://sci-hub.st/https://link.springer.com/article/10.1007/s11263-019-01209-w)] [[Code](https://github.com/uzh-rpg/rpg_eklt)]  [[Video](https://www.youtube.com/watch?v=ZyD1YPW1h4U&feature=youtu.be)]
 
 
+## SNN papers: 
+Surrogate gradient learning in spiking neural networks. Neftci, Emre O., Hesham Mostafa, and Friedemann Zenke. IEEE Signal Processing Magazine 36 (2019): 61-63., [[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8891809/)] 
+
+Long short-term memory and learning-to-learn in networks of spiking neurons. Bellec, Guillaume, et al.  Advances in Neural Information Processing Systems. 2018. [[Paper](https://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons.pdf)]
+
+
+
+
+
 
 
