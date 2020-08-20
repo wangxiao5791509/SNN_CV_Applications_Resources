@@ -20,7 +20,21 @@ DVS Benchmark Datasets for Object Tracking, Action Recognition, and Object Recog
 ## Tools && Packages: 
 SNN-toolbox: [[Document](https://snntoolbox.readthedocs.io/en/latest/#)] [[Github](https://github.com/NeuromorphicProcessorProject/snn_toolbox)] 
 
-Norse: [[Document](https://norse.github.io/norse/about.html)] [[Github](https://github.com/norse)] [[Home](https://norse.ai/)]
+Norse: [[Document](https://norse.github.io/norse/about.html)] [[Github](https://github.com/norse)] [[Home](https://norse.ai/)] 
+
+Simulator: [[Home](https://sites.google.com/view/video2events/home)] [[Github](https://github.com/SensorsINI/v2e)]
+
+
+## SNN papers: 
+Surrogate gradient learning in spiking neural networks. Neftci, Emre O., Hesham Mostafa, and Friedemann Zenke. IEEE Signal Processing Magazine 36 (2019): 61-63., [[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8891809/)] 
+
+Long short-term memory and learning-to-learn in networks of spiking neurons. Bellec, Guillaume, et al.  Advances in Neural Information Processing Systems. 2018. [[Paper](https://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons.pdf)] [[Code](https://github.com/surrogate-gradient-learning)]
+
+Slayer: Spike layer error reassignment in time. Shrestha, Sumit Bam, and Garrick Orchard. Advances in Neural Information Processing Systems. 2018. [[Paper](http://papers.nips.cc/paper/7415-slayer-spike-layer-error-reassignment-in-time.pdf)] [[Offical Code](https://bitbucket.org/bamsumit/slayer/src/master/)] [[PyTorch-version](https://github.com/bamsumit/slayerPytorch)] [[Video](https://www.youtube.com/watch?v=JGdatqqci5o)] 
+
+RMP-SNN: Residual Membrane Potential Neuron for Enabling Deeper High-Accuracy and Low-Latency Spiking Neural Network, [[cvpr-2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Han_RMP-SNN_Residual_Membrane_Potential_Neuron_for_Enabling_Deeper_High-Accuracy_and_CVPR_2020_paper.pdf)] 
+
+Retina-Like Visual Image Reconstruction via Spiking Neural Model, Lin Zhu, Siwei Dong, Jianing Li, Tiejun Huang, Yonghong Tian [[cvpr-2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Retina-Like_Visual_Image_Reconstruction_via_Spiking_Neural_Model_CVPR_2020_paper.pdf)]
 
 
 
@@ -53,12 +67,6 @@ Event-guided structured output tracking of fast-moving objects using a CeleX sen
 EKLT: Asynchronous photometric feature tracking using events and frames." Gehrig, Daniel, et al.  International Journal of Computer Vision 128.3 (2020): 601-618. [[Paper](https://sci-hub.st/https://link.springer.com/article/10.1007/s11263-019-01209-w)] [[Code](https://github.com/uzh-rpg/rpg_eklt)]  [[Video](https://www.youtube.com/watch?v=ZyD1YPW1h4U&feature=youtu.be)]
 
 
-## SNN papers: 
-Surrogate gradient learning in spiking neural networks. Neftci, Emre O., Hesham Mostafa, and Friedemann Zenke. IEEE Signal Processing Magazine 36 (2019): 61-63., [[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8891809/)] 
-
-Long short-term memory and learning-to-learn in networks of spiking neurons. Bellec, Guillaume, et al.  Advances in Neural Information Processing Systems. 2018. [[Paper](https://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons.pdf)] [[Code](https://github.com/surrogate-gradient-learning)]
-
-Slayer: Spike layer error reassignment in time. Shrestha, Sumit Bam, and Garrick Orchard. Advances in Neural Information Processing Systems. 2018. [[Paper](http://papers.nips.cc/paper/7415-slayer-spike-layer-error-reassignment-in-time.pdf)] [[Offical Code](https://bitbucket.org/bamsumit/slayer/src/master/)] [[PyTorch-version](https://github.com/bamsumit/slayerPytorch)] [[Video](https://www.youtube.com/watch?v=JGdatqqci5o)] 
 
 
 
