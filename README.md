@@ -60,8 +60,6 @@ Long short-term memory and learning-to-learn in networks of spiking neurons. Bel
 
 Slayer: Spike layer error reassignment in time. Shrestha, Sumit Bam, and Garrick Orchard. Advances in Neural Information Processing Systems. 2018. [[Paper](http://papers.nips.cc/paper/7415-slayer-spike-layer-error-reassignment-in-time.pdf)] [[Offical Code](https://bitbucket.org/bamsumit/slayer/src/master/)] [[PyTorch-version](https://github.com/bamsumit/slayerPytorch)] [[Video](https://www.youtube.com/watch?v=JGdatqqci5o)] 
 
-Long short-term memory and learning-to-learn in networks of spiking neurons. Bellec, G., Salaj, D., Subramoney, A., Legenstein, R., & Maass, W. (2018).  In Advances in Neural Information Processing Systems (pp. 787-797). [[Paper](https://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons.pdf)]
-
 
 
 
