@@ -22,7 +22,9 @@ SNN-toolbox: [[Document](https://snntoolbox.readthedocs.io/en/latest/#)] [[Githu
 
 Norse: [[Document](https://norse.github.io/norse/about.html)] [[Github](https://github.com/norse)] [[Home](https://norse.ai/)] 
 
-V2E Simulator (From video frames to realistic DVS event camera streams): [[Home](https://sites.google.com/view/video2events/home)] [[Github](https://github.com/SensorsINI/v2e)] [[Paper](https://arxiv.org/pdf/2006.07722.pdf)]
+V2E Simulator (From video frames to realistic DVS event camera streams): [[Home](https://sites.google.com/view/video2events/home)] [[Github](https://github.com/SensorsINI/v2e)] [[Paper](https://arxiv.org/pdf/2006.07722.pdf)] 
+
+SLAYER PyTorch [[Documents](https://bamsumit.github.io/slayerPytorch/build/html/index.html)]
 
 
 ## SNN papers: 
