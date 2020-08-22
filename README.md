@@ -55,6 +55,8 @@ TactileSGNet: A Spiking Graph Neural Network for Event-based Tactile Object Reco
 
 "Event-based Asynchronous Sparse Convolutional Networks." Messikommer, Nico, et al.  arXiv preprint arXiv:2003.09148 (2020). [[Paper](http://rpg.ifi.uzh.ch/docs/ECCV20_Messikommer.pdf)] [[Youtube](https://www.youtube.com/watch?v=VD7Beh_-7eU)] [[Code](https://github.com/uzh-rpg/rpg_asynet)]
 
+Structure-Aware Network for Lane Marker Extraction with Dynamic Vision Sensor, Wensheng Cheng*, Hao Luo*, Wen Yang, Senior Member, IEEE, Lei Yu, Member, IEEE, and Wei Li, CVPR-workshop [[Paper](https://arxiv.org/pdf/2008.06204.pdf)] [[Dataset](https://spritea.github.io/DET/)] 
+
 
 
 ## Visual Tracking: 
