@@ -76,6 +76,8 @@ Event-guided structured output tracking of fast-moving objects using a CeleX sen
 
 EKLT: Asynchronous photometric feature tracking using events and frames." Gehrig, Daniel, et al.  International Journal of Computer Vision 128.3 (2020): 601-618. [[Paper](https://sci-hub.st/https://link.springer.com/article/10.1007/s11263-019-01209-w)] [[Code](https://github.com/uzh-rpg/rpg_eklt)]  [[Video](https://www.youtube.com/watch?v=ZyD1YPW1h4U&feature=youtu.be)]
 
+Spatiotemporal Multiple Persons Tracking Using Dynamic Vision Sensor, Piątkowska, Ewa, et al. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. IEEE, 2012. [[Paper](https://publik.tuwien.ac.at/files/PubDat_209369.pdf)] 
+
 
 
 
