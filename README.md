@@ -59,7 +59,11 @@ Structure-Aware Network for Lane Marker Extraction with Dynamic Vision Sensor, W
 
 
 
-## Visual Tracking: 
+## Visual Tracking:
+
+Asynchronous Tracking-by-Detection on Adaptive Time Surfaces for Event-based Object Tracking, Chen, Haosheng, et al. Proceedings of the 27th ACM International Conference on Multimedia. 2019. [[Paper](https://arxiv.org/pdf/2002.05583.pdf)]
+
+
 High-Speed Object Tracking with Dynamic Vision Sensor. Wu, J., Zhang, K., Zhang, Y., Xie, X., & Shi, G. (2018, October).  In China High Resolution Earth Observation Conference (pp. 164-174). Springer, Singapore. [[Paper](https://sci-hub.st/https://link.springer.com/chapter/10.1007/978-981-13-6553-9_18)]
 
 High-speed object tracking with its application in golf playing. Lyu, C., Liu, Y., Jiang, X., Li, P., & Chen, H. (2017).  International Journal of Social Robotics, 9(3), 449-461. [[Paper](https://sci-hub.tw/10.1007/s12369-017-0404-0)] 
