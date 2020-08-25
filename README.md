@@ -56,6 +56,10 @@ Towards artificial general intelligence with hybrid Tianjic chip architecture. N
 
 Training Spiking Deep Networks for Neuromorphic Hardware, [[Paper](https://arxiv.org/pdf/1611.05141.pdf)] 
 
+Direct Training for Spiking Neural Networks: Faster, Larger, Better, Wu, Yujie, et al. AAAI-2019. [[Paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3929/3807)]  
+
+
+
 
 
 
