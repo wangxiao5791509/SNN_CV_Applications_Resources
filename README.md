@@ -32,6 +32,9 @@ ESIM: an Open Event Camera Simulator [[Github](https://github.com/uzh-rpg/rpg_es
 
 SLAYER PyTorch [[Documents](https://bamsumit.github.io/slayerPytorch/build/html/index.html)]
 
+## Hardware: 
+neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.com/merolla_main_som.pdf)] and Intel Loihi [[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8259423/)].
+
 
 ## SNN papers: 
 Surrogate gradient learning in spiking neural networks. Neftci, Emre O., Hesham Mostafa, and Friedemann Zenke. IEEE Signal Processing Magazine 36 (2019): 61-63., [[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8891809/)] 
