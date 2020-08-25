@@ -39,6 +39,17 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 
 
 ## SNN papers: 
+
+Deep Spiking Neural Network: Energy Efficiency Through Time based Coding, Bing Han and Kaushik Roy, [[ECCV-2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550392.pdf)] 
+
+Inherent Adversarial Robustness of Deep Spiking Neural Networks: Effects of Discrete Input Encoding and Non-Linear Activations, Saima Sharmin1, Nitin Rathi1,
+Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740392.pdf)] 
+
+Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks, Chankyu Lee, Adarsh Kumar Kosta, Alex Zihao Zhu, Kenneth Chaney, Kostas Daniilidis, and Kaushik Roy [[ECCV2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf)]
+
+
+
+
 Surrogate gradient learning in spiking neural networks. Neftci, Emre O., Hesham Mostafa, and Friedemann Zenke. IEEE Signal Processing Magazine 36 (2019): 61-63., [[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8891809/)] 
 
 Long short-term memory and learning-to-learn in networks of spiking neurons. Bellec, Guillaume, et al.  Advances in Neural Information Processing Systems. 2018. [[Paper](https://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons.pdf)] [[Code](https://github.com/surrogate-gradient-learning)]
