@@ -52,6 +52,8 @@ Deep neural networks with weighted spikes. Kim, Jaehyun, et al.  Neurocomputing 
 
 Spiking deep residual network. Hu, Yangfan, et al. arXiv preprint arXiv:1805.01352 (2018). [[Paper](https://arxiv.org/pdf/1805.01352.pdf)]
 
+Towards artificial general intelligence with hybrid Tianjic chip architecture. Nature, 572(7767), 106-111. Pei, J., Deng, L., Song, S., Zhao, M., Zhang, Y., Wu, S., ... & Chen, F. (2019). [[Paper](http://cacs.usc.edu/education/cs653/Pei-ArtificialGeneralIntelligenceChip-Nature19.pdf)]
+
 
 
 
