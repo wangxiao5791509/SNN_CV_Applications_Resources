@@ -46,7 +46,11 @@ Retina-Like Visual Image Reconstruction via Spiking Neural Model, Lin Zhu, Siwei
 
 Biologically inspired alternatives to backpropagation through time for learning in recurrent neural nets. Bellec, G., Scherr, F., Hajek, E., Salaj, D., Legenstein, R., & Maass, W. (2019).  arXiv preprint arXiv:1901.09049. [[Paper](https://arxiv.org/pdf/1901.09049.pdf)]
 
-Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception, T-PAMI, Paredes-Vallés, Federico, Kirk Yannick Willehm Scheper, and Guido Cornelis Henricus Eugene De Croon. , [[Paper](https://arxiv.org/pdf/1807.10936.pdf)]
+Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception, T-PAMI, Paredes-Vallés, Federico, Kirk Yannick Willehm Scheper, and Guido Cornelis Henricus Eugene De Croon. , [[Paper](https://arxiv.org/pdf/1807.10936.pdf)] 
+
+Deep neural networks with weighted spikes. Kim, Jaehyun, et al.  Neurocomputing 311 (2018): 373-386., [[Paper](https://sci-hub.st/https://www.sciencedirect.com/science/article/pii/S0925231218306726)] 
+
+Spiking deep residual network. Hu, Yangfan, et al. arXiv preprint arXiv:1805.01352 (2018). [[Paper](https://arxiv.org/pdf/1805.01352.pdf)]
 
 
 
