@@ -54,6 +54,10 @@ Spiking deep residual network. Hu, Yangfan, et al. arXiv preprint arXiv:1805.013
 
 Towards artificial general intelligence with hybrid Tianjic chip architecture. Nature, 572(7767), 106-111. Pei, J., Deng, L., Song, S., Zhao, M., Zhang, Y., Wu, S., ... & Chen, F. (2019). [[Paper](http://cacs.usc.edu/education/cs653/Pei-ArtificialGeneralIntelligenceChip-Nature19.pdf)]
 
+Training Spiking Deep Networks for Neuromorphic Hardware, [[Paper](https://arxiv.org/pdf/1611.05141.pdf)] 
+
+
+
 
 
 
