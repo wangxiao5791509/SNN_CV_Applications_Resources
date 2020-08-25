@@ -1,6 +1,8 @@
 # SNN_CV_Applications_Resources
 Paper list for SNN based computer vision tasks. 
 
+![rgbt_car10](https://github.com/wangxiao5791509/SNN_CV_Applications_Resources/blob/master/Screenshot%20from%202020-08-25%2019-47-07.png) 
+
 
 ## Related Resources: 
 Event-based Vision, Event Cameras, Event Camera SLAM [[ETH page](http://rpg.ifi.uzh.ch/research_dvs.html)] 
