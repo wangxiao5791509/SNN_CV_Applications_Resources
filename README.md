@@ -1,5 +1,5 @@
 # SNN_CV_Applications_Resources
-Paper list for SNN based computer vision tasks. 
+Paper list for SNN or event camera based computer vision tasks. 
 
 ![rgbt_car10](https://github.com/wangxiao5791509/SNN_CV_Applications_Resources/blob/master/Screenshot%20from%202020-08-25%2019-47-07.png) 
 
