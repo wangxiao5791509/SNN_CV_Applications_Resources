@@ -114,6 +114,8 @@ EKLT: Asynchronous photometric feature tracking using events and frames." Gehrig
 
 Spatiotemporal Multiple Persons Tracking Using Dynamic Vision Sensor, Piątkowska, Ewa, et al. IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. IEEE, 2012. [[Paper](https://publik.tuwien.ac.at/files/PubDat_209369.pdf)] 
 
+Event-Driven Stereo Visual Tracking Algorithm to Solve Object Occlusion, IEEE TNNLS [[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8088365/)]
+
 
 
 
