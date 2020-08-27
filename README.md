@@ -24,15 +24,15 @@ CED: Color Event Camera Dataset [[Paper](https://openaccess.thecvf.com/content_C
 
 
 ## Tools && Packages: 
-SNN-toolbox: [[Document](https://snntoolbox.readthedocs.io/en/latest/#)] [[Github](https://github.com/NeuromorphicProcessorProject/snn_toolbox)] 
+* SNN-toolbox: [[Document](https://snntoolbox.readthedocs.io/en/latest/#)] [[Github](https://github.com/NeuromorphicProcessorProject/snn_toolbox)] 
 
-Norse: [[Document](https://norse.github.io/norse/about.html)] [[Github](https://github.com/norse)] [[Home](https://norse.ai/)] 
+* Norse: [[Document](https://norse.github.io/norse/about.html)] [[Github](https://github.com/norse)] [[Home](https://norse.ai/)] 
 
-V2E Simulator (From video frames to realistic DVS event camera streams): [[Home](https://sites.google.com/view/video2events/home)] [[Github](https://github.com/SensorsINI/v2e)] [[Paper](https://arxiv.org/pdf/2006.07722.pdf)] 
+* V2E Simulator (From video frames to realistic DVS event camera streams): [[Home](https://sites.google.com/view/video2events/home)] [[Github](https://github.com/SensorsINI/v2e)] [[Paper](https://arxiv.org/pdf/2006.07722.pdf)] 
 
-ESIM: an Open Event Camera Simulator [[Github](https://github.com/uzh-rpg/rpg_esim)]
+* ESIM: an Open Event Camera Simulator [[Github](https://github.com/uzh-rpg/rpg_esim)]
 
-SLAYER PyTorch [[Documents](https://bamsumit.github.io/slayerPytorch/build/html/index.html)]
+* SLAYER PyTorch [[Documents](https://bamsumit.github.io/slayerPytorch/build/html/index.html)]
 
 * [BindsNET](https://github.com/BindsNET/bindsnet) also builds on PyTorch and is explicitly targeted at machine learning tasks. It implements a Network abstraction with the typical 'node' and 'connection' notions common in spiking neural network simulators like nest.
 
