@@ -145,6 +145,11 @@ Event-Driven Stereo Visual Tracking Algorithm to Solve Object Occlusion, IEEE TN
 
 
 
+## High-Quality Image Reconvery: 
+Spiking Neural Networks and Online Learning: An Overview and Perspectives, Neural Networks 121 (2020): 88-100. Jesus L. Lobo, Javier Del Ser, Albert Bifet, Nikola Kasabov [[Paper](https://arxiv.org/pdf/1908.08019.pdf)]
+
+
+
 
 
 
