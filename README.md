@@ -17,6 +17,8 @@ DVS Benchmark Datasets for Object Tracking, Action Recognition, and Object Recog
 ## Survey && Reviews: 
 1. 神经形态视觉传感器的研究进展及应用综述，计算机学报，李家宁 田永鸿 [[Paper](https://drive.google.com/file/d/1d7igUbIrEWxmUI7xq75P6h_I4H7uI3FA/view?usp=sharing)] 
 
+2. Spiking Neural Networks and Online Learning: An Overview and Perspectives, Neural Networks 121 (2020): 88-100. Jesus L. Lobo, Javier Del Ser, Albert Bifet, Nikola Kasabov [[Paper](https://arxiv.org/pdf/1908.08019.pdf)]
+
 
 ## Datasets: 
 CED: Color Event Camera Dataset [[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Scheerlinck_CED_Color_Event_Camera_Dataset_CVPRW_2019_paper.pdf)] [[Github](https://github.com/uzh-rpg/rpg_esim)] [[Dataset](http://rpg.ifi.uzh.ch/CED.html)] 
@@ -146,7 +148,9 @@ Event-Driven Stereo Visual Tracking Algorithm to Solve Object Occlusion, IEEE TN
 
 
 ## High-Quality Image Reconvery: 
-Spiking Neural Networks and Online Learning: An Overview and Perspectives, Neural Networks 121 (2020): 88-100. Jesus L. Lobo, Javier Del Ser, Albert Bifet, Nikola Kasabov [[Paper](https://arxiv.org/pdf/1908.08019.pdf)]
+* Event Enhanced High-Quality Image Recovery, Bishan Wang, Jingwei He, Lei Yu, Gui-Song Xia, and Wen Yang [[ECCV2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154.pdf)] [[Code](https://github.com/ShinyWang33/eSL-Net)] 
+
+* 
 
 
 
