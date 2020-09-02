@@ -156,6 +156,8 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 
 * Event-Driven Stereo Visual Tracking Algorithm to Solve Object Occlusion, IEEE TNNLS [[Paper](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/8088365/)]
 
+* Ni, Zhenjiang, et al. "Asynchronous event‐based high speed vision for microparticle tracking." Journal of microscopy 245.3 (2012): 236-244. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/43547699/Asynchronous_event-based_high_speed_visi20160309-14281-1284m08.pdf?1457537197=&response-content-disposition=inline%3B+filename%3DAsynchronous_event_based_high_speed_visi.pdf&Expires=1599041043&Signature=NGcfjbKclbyVdzNlDtndtKxuCimaNn9Ntoqpb~UFKbXFopPZh~59jjJGVp5a2iYSfztF1TvqHVGexsP0ubW8tq3wmeSvUFEM-l1uB6cXhDAvSxUGKKRKnDahaxnyH~Lapq3lky3QNlT0KJqZeDGIvTDyAwccjdzb65vRTbWSz6bUnY2-gHVLiFgJLbhxLMsrlnKTLIViI7eznBKzN11yk4CesYsvggFclw7LJHaaerH~O3yoBxDqF0a-VOhH9rxRJ0c-aIMW5rtZTxHTMCAQDwSPOpfMpxbO-4-k5~oE-JG0HfFE-cDXPJrstjU7TixQS9Mj8IkJO4vXEc7kT3i4Kw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
+
 
 
 ## High-Quality Image Reconvery: 
