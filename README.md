@@ -136,6 +136,8 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 
 ## Visual Tracking:
 
+* A Hybrid Neuromorphic Object Tracking and Classification Framework for Real-time Systems, [[Paper](https://arxiv.org/pdf/2007.11404.pdf)] [[Code](https://github.com/nusneuromorphic/cEOT)] [[Demo](https://drive.google.com/file/d/1gRb1eC2RDM0ZMFhPZQ2mFYq_AulbJXzj/preview)] 
+ 
 * Long-term object tracking with a moving event camera. Ramesh, Bharath, et al.  Bmvc. 2018. [[Paper](http://bmvc2018.org/contents/papers/0814.pdf)] 
 
 * e-TLD: Event-based Framework for Dynamic Object Tracking, [[Paper](https://arxiv.org/pdf/2009.00855.pdf)] [[Dataset](https://github.com/nusneuromorphic/Object_Annotations)] 
