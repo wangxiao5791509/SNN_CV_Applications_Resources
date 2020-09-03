@@ -136,6 +136,10 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 
 ## Visual Tracking:
 
+* Long-term object tracking with a moving event camera. Ramesh, Bharath, et al.  Bmvc. 2018. [[Paper](http://bmvc2018.org/contents/papers/0814.pdf)] 
+
+* e-TLD: Event-based Framework for Dynamic Object Tracking, [[Paper](https://arxiv.org/pdf/2009.00855.pdf)] [[Dataset](https://github.com/nusneuromorphic/Object_Annotations)] 
+
 * Spiking neural network-based target tracking control for autonomous mobile robots. Cao, Zhiqiang, et al. Neural Computing and Applications 26.8 (2015): 1839-1847. [[Paper](https://sci-hub.st/https://link.springer.com/article/10.1007/s00521-015-1848-5)]
 
 * Asynchronous Tracking-by-Detection on Adaptive Time Surfaces for Event-based Object Tracking, Chen, Haosheng, et al. Proceedings of the 27th ACM International Conference on Multimedia. 2019. [[Paper](https://arxiv.org/pdf/2002.05583.pdf)]
