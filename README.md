@@ -169,7 +169,11 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 ## High-Quality Image Reconvery: 
 * Event Enhanced High-Quality Image Recovery, Bishan Wang, Jingwei He, Lei Yu, Gui-Song Xia, and Wen Yang [[ECCV2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154.pdf)] [[Code](https://github.com/ShinyWang33/eSL-Net)] 
 
-* 
+
+## Binocular Vision: 
+* U2Eyes: a binocular dataset for eye tracking and gaze estimation, ICCV-2019 Workshop [[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/OpenEDS/Porta_U2Eyes_A_Binocular_Dataset_for_Eye_Tracking_and_Gaze_Estimation_ICCVW_2019_paper.pdf)] 
+
+* Robust object tracking via multi-cue fusion. Hu, Mengjie, et al. Signal Processing 139 (2017): 86-95. [[Paper](https://sci-hub.st/https://www.sciencedirect.com/science/article/abs/pii/S0165168417301366)] 
 
 
 
