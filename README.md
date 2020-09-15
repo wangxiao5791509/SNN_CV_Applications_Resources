@@ -110,7 +110,7 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 ## Optical-Flow Estimation and Motion Segmentation: 
 * Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks, Lee, Chankyu and Kosta, Adarsh and Zhu, Alex Zihao and Chaney, Kenneth and Daniilidis, Kostas and Roy, Kaushik [[ECCV-2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf)] [[Code](https://github.com/chan8972/Spike-FlowNet)] 
 
-* EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras. Zhu, Alex Zihao, et al.  arXiv preprint arXiv:1802.06898 (2018). [[Paper](https://github.com/chan8972/Spike-FlowNet)] [[Code](https://github.com/daniilidis-group/EV-FlowNet)]
+* EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras. Zhu, Alex Zihao, et al.  arXiv preprint arXiv:1802.06898 (2018). [[Paper](https://arxiv.org/pdf/1802.06898.pdf)] [[Code](https://github.com/daniilidis-group/EV-FlowNet)]
 
 * Stoffregen, Timo, et al. "Event-based motion segmentation by motion compensation." Proceedings of the IEEE International Conference on Computer Vision. 2019. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Stoffregen_Event-Based_Motion_Segmentation_by_Motion_Compensation_ICCV_2019_paper.pdf)] 
 
