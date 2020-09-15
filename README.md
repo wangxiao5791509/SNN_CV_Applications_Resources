@@ -136,6 +136,10 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 
 ## Visual Tracking:
 
+* HASTE: multi-Hypothesis Asynchronous Speeded-up Tracking of Events, bmvc2020, [[Paper](https://www.bmvc2020-conference.com/assets/papers/0744.pdf)]
+
+* High-speed event camera tracking, bmvc2020, [[Paper](https://www.bmvc2020-conference.com/assets/papers/0366.pdf)] 
+
 * A Hybrid Neuromorphic Object Tracking and Classification Framework for Real-time Systems, [[Paper](https://arxiv.org/pdf/2007.11404.pdf)] [[Code](https://github.com/nusneuromorphic/cEOT)] [[Demo](https://drive.google.com/file/d/1gRb1eC2RDM0ZMFhPZQ2mFYq_AulbJXzj/preview)] 
  
 * Long-term object tracking with a moving event camera. Ramesh, Bharath, et al.  Bmvc. 2018. [[Paper](http://bmvc2018.org/contents/papers/0814.pdf)] 
