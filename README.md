@@ -19,6 +19,8 @@ Paper list for SNN or event camera based computer vision tasks.
 
 * Spiking Neural Networks and Online Learning: An Overview and Perspectives, Neural Networks 121 (2020): 88-100. Jesus L. Lobo, Javier Del Ser, Albert Bifet, Nikola Kasabov [[Paper](https://arxiv.org/pdf/1908.08019.pdf)]
 
+* Supervised learning in spiking neural networks: A review of algorithms and evaluations. Neural Networks (2020). Wang, Xiangwen, Xianghong Lin, and Xiaochao Dang. [[Paper](https://sci-hub.st/https://www.sciencedirect.com/science/article/pii/S0893608020300563)]
+
 
 ## Datasets: 
 * CED: Color Event Camera Dataset [[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Scheerlinck_CED_Color_Event_Camera_Dataset_CVPRW_2019_paper.pdf)] [[Github](https://github.com/uzh-rpg/rpg_esim)] [[Dataset](http://rpg.ifi.uzh.ch/CED.html)] 
