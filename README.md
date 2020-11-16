@@ -138,6 +138,8 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 
 ## Visual Tracking:
 
+* Yang, Zheyu, et al. "DashNet: A hybrid artificial and spiking neural network for high-speed object tracking." arXiv preprint arXiv:1909.12942 (2019). [[Paper](https://arxiv.org/pdf/1909.12942.pdf)]
+
 * End-to-end Learning of Object Motion Estimation from Retinal Events for Event-based Object Tracking, aaai-2020 [[Paper](https://arxiv.org/pdf/2002.05911.pdf)]
 
 * HASTE: multi-Hypothesis Asynchronous Speeded-up Tracking of Events, bmvc2020, [[Paper](https://www.bmvc2020-conference.com/assets/papers/0744.pdf)]
