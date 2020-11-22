@@ -138,6 +138,12 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 
 ## Visual Tracking:
 
+* Jiang, Rui, et al. "Object tracking on event cameras with offline–online learning." CAAI Transactions on Intelligence Technology (2020) [[Paper](https://www.researchgate.net/profile/Rui_Jiang31/publication/341045469_Object_Tracking_on_Event_Cameras_with_Offline-Online_Learning/links/5ebfeadea6fdcc90d67a4af3/Object-Tracking-on-Event-Cameras-with-Offline-Online-Learning.pdf)]
+
+* Retinal Slip Estimation and Object Tracking with an Active Event Camera [[AICAS-2020](https://sci-hub.st/https://ieeexplore.ieee.org/abstract/document/9073922/)]
+
+* Zhang, Y. (2019). Real‑time object tracking for event cameras. Master's thesis, Nanyang Technological University, Singapore. [[Thesis](https://dr.ntu.edu.sg/bitstream/10356/137297/2/Thesis_ZhangYexin.pdf)]
+
 * Yang, Zheyu, et al. "DashNet: A hybrid artificial and spiking neural network for high-speed object tracking." arXiv preprint arXiv:1909.12942 (2019). [[Paper](https://arxiv.org/pdf/1909.12942.pdf)]
 
 * End-to-end Learning of Object Motion Estimation from Retinal Events for Event-based Object Tracking, aaai-2020 [[Paper](https://arxiv.org/pdf/2002.05911.pdf)]
