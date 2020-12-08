@@ -32,6 +32,8 @@ Paper list for SNN or event camera based computer vision tasks.
 
 
 ## Tools && Packages: 
+* SpikingJelly: an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch. [[Document](https://spikingjelly.readthedocs.io/zh_CN/latest/#index-en)] [[Github](https://github.com/fangwei123456/spikingjelly)] 
+ 
 * SNN-toolbox: [[Document](https://snntoolbox.readthedocs.io/en/latest/#)] [[Github](https://github.com/NeuromorphicProcessorProject/snn_toolbox)] 
 
 * Norse: [[Document](https://norse.github.io/norse/about.html)] [[Github](https://github.com/norse)] [[Home](https://norse.ai/)] 
