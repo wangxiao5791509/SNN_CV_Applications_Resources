@@ -118,6 +118,8 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 
 * Stoffregen, Timo, et al. "Event-based motion segmentation by motion compensation." Proceedings of the IEEE International Conference on Computer Vision. 2019. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Stoffregen_Event-Based_Motion_Segmentation_by_Motion_Compensation_ICCV_2019_paper.pdf)] 
 
+* Bisulco A, Ojeda F C, Isler V, et al. Fast Motion Understanding with Spatiotemporal Neural Networks and Dynamic Vision Sensors[J]. arXiv preprint arXiv:2011.09427, 2020. [[Paper](https://arxiv.org/pdf/2011.09427.pdf)]
+
 
 
 
