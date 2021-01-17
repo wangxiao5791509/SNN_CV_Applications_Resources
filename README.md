@@ -130,7 +130,7 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 
 
 ## Object Detection: 
-* "Spiking-yolo: Spiking neural network for real-time object detection." Kim, Seijoon, et al.  AAAI-2020 [[Paper](https://arxiv.org/pdf/1903.06530.pdf)] 
+* "Spiking-yolo: Spiking neural network for real-time object detection." Kim, Seijoon, et al.  AAAI-2020 [[Paper](https://arxiv.org/pdf/1903.06530.pdf)] [[Code](https://github.com/cwq159/PyTorch-Spiking-YOLOv3)]
 
 * "A large scale event-based detection dataset for automotive." de Tournemire, Pierre, et al.  arXiv (2020): arXiv-2001. [[Paper](https://arxiv.org/pdf/2001.08499.pdf)] [[Dataset](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)]
 
