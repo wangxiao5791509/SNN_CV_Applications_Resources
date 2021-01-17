@@ -140,7 +140,9 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 
 
 
-## Visual Tracking:
+## Object Tracking:
+
+* Deng, Lei, et al. "Fast object tracking on a many-core neural network chip." Frontiers in Neuroscience 12 (2018): 841. [[Paper](https://www.frontiersin.org/articles/10.3389/fnins.2018.00841/full)]
 
 * Jiang, Rui, et al. "Object tracking on event cameras with offline–online learning." CAAI Transactions on Intelligence Technology (2020) [[Paper](https://www.researchgate.net/profile/Rui_Jiang31/publication/341045469_Object_Tracking_on_Event_Cameras_with_Offline-Online_Learning/links/5ebfeadea6fdcc90d67a4af3/Object-Tracking-on-Event-Cameras-with-Offline-Online-Learning.pdf)]
 
