@@ -1,6 +1,10 @@
 # SNN_CV_Applications_Resources
 Paper list for SNN or event camera based computer vision tasks. 
 
+
+#### If you are interested in this topic (especifically on Object Detection, Visual Tracking based Event Cameras), please contact me via: wangxiaocvpr@foxmail.com, or my wechat: wangxiao5791509. 
+
+
 ![rgbt_car10](https://github.com/wangxiao5791509/SNN_CV_Applications_Resources/blob/master/Screenshot%20from%202020-08-25%2019-47-07.png) 
 
 
