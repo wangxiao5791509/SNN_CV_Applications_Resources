@@ -145,7 +145,7 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 
 
 ## Object Tracking:
-* Multi-domain Collaborative Feature Representation for Robust Visual Object Tracking，CGI 2021, Jiqing Zhang， Kai Zhao， Bo Dong， Yingkai Fu， Yuxin Wang， Xin Yang1， Baocai Yin
+* Multi-domain Collaborative Feature Representation for Robust Visual Object Tracking，CGI 2021, Jiqing Zhang， Kai Zhao， Bo Dong， Yingkai Fu， Yuxin Wang， Xin Yang， Baocai Yin [[Paper](https://arxiv.org/pdf/2108.04521.pdf)]
 
 * Deng, Lei, et al. "Fast object tracking on a many-core neural network chip." Frontiers in Neuroscience 12 (2018): 841. [[Paper](https://www.frontiersin.org/articles/10.3389/fnins.2018.00841/full)]
 
