@@ -81,6 +81,8 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 
 ## SNN papers: 
 
+* SiamEvent: Event-based Object Tracking via Edge-aware Similarity Learning with Siamese Networks, [[Paper](https://arxiv.org/abs/2109.13456)] [[Github](https://github.com/yujeong-star/SiamEvent)]
+
 * Deep Spiking Neural Network: Energy Efficiency Through Time based Coding, Bing Han and Kaushik Roy, [[ECCV-2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550392.pdf)] 
 
 * Inherent Adversarial Robustness of Deep Spiking Neural Networks: Effects of Discrete Input Encoding and Non-Linear Activations, Saima Sharmin1, Nitin Rathi1,
