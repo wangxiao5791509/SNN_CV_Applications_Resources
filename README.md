@@ -81,7 +81,9 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 
 ## SNN papers: 
 
-* Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State, NIPS-2021, Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Yisen Wang, Zhouchen Lin, [[Paper](https://arxiv.org/pdf/2109.14247.pdf)] [[Code](https://github.com/pkuxmq/IDE-FSNN)]
+* **TRAINING SPIKING NEURAL NETWORKS USING LESSONS FROM DEEP LEARNING**, [[Paper](https://arxiv.org/pdf/2109.12894.pdf)] 
+
+* **Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State**, NIPS-2021, Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Yisen Wang, Zhouchen Lin, [[Paper](https://arxiv.org/pdf/2109.14247.pdf)] [[Code](https://github.com/pkuxmq/IDE-FSNN)]
 
 *  **StereoSpike: Depth Learning with a Spiking Neural Network**, Ulysse Rançon, Javier Cuadrado-Anibarro, Benoit R. Cottereau, Timothée Masquelier [[Paper](https://arxiv.org/abs/2109.13751)] [[Code](https://github.com/urancon/StereoSpike)]
 
