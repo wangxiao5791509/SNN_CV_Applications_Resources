@@ -81,6 +81,8 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 
 ## SNN papers: 
 
+* **StereoSpike: Depth Learning with a Spiking Neural Network**, Ulysse Rançon, Javier Cuadrado-Anibarro, Benoit R. Cottereau, Timothée Masquelier [[Paper](https://arxiv.org/abs/2109.13751)] [[Code](https://github.com/urancon/StereoSpike)]
+
 * SiamEvent: Event-based Object Tracking via Edge-aware Similarity Learning with Siamese Networks, [[Paper](https://arxiv.org/abs/2109.13456)] [[Github](https://github.com/yujeong-star/SiamEvent)]
 
 * Deep Spiking Neural Network: Energy Efficiency Through Time based Coding, Bing Han and Kaushik Roy, [[ECCV-2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550392.pdf)] 
