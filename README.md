@@ -132,6 +132,8 @@ Priyadarshini Panda2, and Kaushik Roy1 [[ECCV2020](https://www.ecva.net/papers/e
 
 * Bisulco A, Ojeda F C, Isler V, et al. Fast Motion Understanding with Spatiotemporal Neural Networks and Dynamic Vision Sensors[J]. arXiv preprint arXiv:2011.09427, 2020. [[Paper](https://arxiv.org/pdf/2011.09427.pdf)]
 
+* Event-based Motion Segmentation with Spatio-Temporal Graph Cuts, [[Paper](https://arxiv.org/pdf/2012.08730.pdf)] [[Code](https://github.com/HKUST-Aerial-Robotics/EMSGC)]
+
 
 
 
