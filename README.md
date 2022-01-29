@@ -81,6 +81,7 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 
 ## SNN papers: 
 
+* Büchel J, Zendrikov D, Solinas S, et al. Supervised training of spiking neural networks for robust deployment on mixed-signal neuromorphic processors[J]. arXiv preprint arXiv:2102.06408, 2021. [[Paper](https://www.nature.com/articles/s41598-021-02779-x)] [[Weixin](https://mp.weixin.qq.com/s/xI59pAQmqjd5HM3Bh6ysSQ)]
 * **TRAINING SPIKING NEURAL NETWORKS USING LESSONS FROM DEEP LEARNING**, [[Paper](https://arxiv.org/pdf/2109.12894.pdf)] 
 
 * **Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State**, NIPS-2021, Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Yisen Wang, Zhouchen Lin, [[Paper](https://arxiv.org/pdf/2109.14247.pdf)] [[Code](https://github.com/pkuxmq/IDE-FSNN)]
