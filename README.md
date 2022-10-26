@@ -80,6 +80,11 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 
 
 ## SNN papers: 
+
+* **GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**, 
+[[Paper](https://arxiv.org/pdf/2210.13768.pdf)] 
+[[Code](https://github.com/Ikarosy/Gated-LIF)]
+
 * Optimized Potential Initialization for Low-latency Spiking Neural Networks, Tong Bu, Jianhao Ding, Zhaofei Yu, Tiejun Huang, aaai-2022 [[Paper](https://arxiv.org/pdf/2202.01440.pdf)]
 
 * Büchel J, Zendrikov D, Solinas S, et al. Supervised training of spiking neural networks for robust deployment on mixed-signal neuromorphic processors[J]. arXiv preprint arXiv:2102.06408, 2021. [[Paper](https://www.nature.com/articles/s41598-021-02779-x)] [[Weixin](https://mp.weixin.qq.com/s/xI59pAQmqjd5HM3Bh6ysSQ)]
