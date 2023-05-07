@@ -81,6 +81,11 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 
 ## SNN papers: 
 
+### Year 2023 
+* **Training Full Spike Neural Networks via Auxiliary Accumulation Pathway**, Guangyao Chen, Peixi Peng, Guoqi Li, Yonghong Tian 
+[[Paper](https://arxiv.org/abs/2301.11929)] 
+[[Code](https://github.com/iCGY96/AAP)]
+
 * **GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**, 
 [[Paper](https://arxiv.org/pdf/2210.13768.pdf)] 
 [[Code](https://github.com/Ikarosy/Gated-LIF)]
