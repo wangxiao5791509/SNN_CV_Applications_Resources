@@ -88,6 +88,14 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 
 ### Year 2023 
 
+
+* **Sharing Leaky-Integrate-and-Fire Neurons for Memory-Efficient Spiking Neural Networks**, Youngeun Kim, Yuhang Li, Abhishek Moitra, Ruokai Yin, and Priyadarshini Panda 
+[[Paper](https://arxiv.org/pdf/2305.18360.pdf)]
+
+* **Fast-SNN: Fast Spiking Neural Network by Converting Quantized ANN**, IEEE TPAMI, Yangfan Hu, Qian Zheng, Xudong Jiang, and Gang Pan  
+[[Paper](https://arxiv.org/pdf/2305.19868.pdf)] 
+[[Code](https://github.com/yangfan-hu/Fast-SNN)]
+
 * **Joint A-SNN: Joint Training of Artificial and Spiking Neural Networks via Self-Distillation and Weight Factorization,** Yufei Guo, Weihang Peng, Yuanpei Chen, Liwen Zhang, Xiaode Liu, Xuhui Huang, Zhe Ma, Pattern Recognition 
 [[Paper](https://arxiv.org/pdf/2305.02099.pdf)] 
 
