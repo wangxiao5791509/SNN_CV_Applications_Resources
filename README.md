@@ -89,6 +89,9 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 ### Year 2023 
 
 
+* **Auto-Spikformer: Spikformer Architecture Search**, Kaiwei Che, Zhaokun Zhou, Zhengyu Ma, Wei Fang, Yanqi Chen, Shuaijie Shen, Li Yuan, Yonghong Tian 
+[[Paper](https://arxiv.org/pdf/2306.00807.pdf)] 
+
 * **A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks**, Jintang Li†, Huizhe Zhang†, Ruofan Wu‡, Zulun Zhu∗, Liang Chen†, Zibin Zheng†, Baokun Wang, and Changhua Meng 
 [[Paper](https://arxiv.org/pdf/2305.19306.pdf)] 
 [[Code](https://github.com/EdisonLeeeee/SpikeGCL)]
