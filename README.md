@@ -89,6 +89,10 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 ### Year 2023 
 
 
+* **A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks**, Jintang Li†, Huizhe Zhang†, Ruofan Wu‡, Zulun Zhu∗, Liang Chen†, Zibin Zheng†, Baokun Wang, and Changhua Meng 
+[[Paper](https://arxiv.org/pdf/2305.19306.pdf)] 
+[[Code](https://github.com/EdisonLeeeee/SpikeGCL)]
+
 * **Sharing Leaky-Integrate-and-Fire Neurons for Memory-Efficient Spiking Neural Networks**, Youngeun Kim, Yuhang Li, Abhishek Moitra, Ruokai Yin, and Priyadarshini Panda 
 [[Paper](https://arxiv.org/pdf/2305.18360.pdf)]
 
