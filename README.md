@@ -89,6 +89,9 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 ### Year 2023 
 
 
+* **Temporal Contrastive Learning for Spiking Neural Networks**, Haonan Qiu Zeyin Song Yanqi Chen Munan Ning Wei Fang Tao Sun Zhengyu Ma Li Yuan Yonghong Tian 
+[[Paper](https://arxiv.org/pdf/2305.13909.pdf)]
+
 * **Auto-Spikformer: Spikformer Architecture Search**, Kaiwei Che, Zhaokun Zhou, Zhengyu Ma, Wei Fang, Yanqi Chen, Shuaijie Shen, Li Yuan, Yonghong Tian 
 [[Paper](https://arxiv.org/pdf/2306.00807.pdf)] 
 
