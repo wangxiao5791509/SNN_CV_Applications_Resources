@@ -89,6 +89,9 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 ### Year 2023 
 
 
+* **ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks**, Jiangrong Shen, Qi Xu, Jian K. Liu, Yueming Wang, Gang Pan, Huajin Tang 
+[[Paper](https://arxiv.org/pdf/2306.03693.pdf)]
+
 * **Temporal Contrastive Learning for Spiking Neural Networks**, Haonan Qiu Zeyin Song Yanqi Chen Munan Ning Wei Fang Tao Sun Zhengyu Ma Li Yuan Yonghong Tian 
 [[Paper](https://arxiv.org/pdf/2305.13909.pdf)]
 
