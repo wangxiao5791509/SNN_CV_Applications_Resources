@@ -86,6 +86,15 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 
 ## SNN papers: 
 
+### Year 2024 
+
+* [arXiv:2406.15034] **SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition**, 
+  Liutao Yu, Liwei Huang, Chenlin Zhou, Han Zhang, Zhengyu Ma, Huihui Zhou, Yonghong Tian, IJCAI 2024 workshop - Human Brain and Artificial Intelligence
+  [[Paper](https://arxiv.org/abs/2406.15034)] 
+
+
+
+
 ### Year 2023 
 
 
