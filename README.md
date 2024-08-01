@@ -88,6 +88,13 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 
 ### Year 2024 
 
+
+
+* [arXiv:2407.20099] **RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding**,
+  Keming Wu, Man Yao, Yuhong Chou, Xuerui Qiu, Rui Yang, Bo Xu, Guoqi Li
+  [[Paper](https://arxiv.org/abs/2407.20099)]
+  [[Code](https://github.com/KemingWu/RSC-SNN)] 
+
 * [arXiv:2406.15034] **SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition**, 
   Liutao Yu, Liwei Huang, Chenlin Zhou, Han Zhang, Zhengyu Ma, Huihui Zhou, Yonghong Tian, IJCAI 2024 workshop - Human Brain and Artificial Intelligence
   [[Paper](https://arxiv.org/abs/2406.15034)] 
