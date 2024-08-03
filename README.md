@@ -89,6 +89,14 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 ### Year 2024 
 
 
+* [arXiv:2407.20508] **Unveiling the Potential of Spiking Dynamics in Graph Representation Learning through Spatial-Temporal Normalization and Coding Strategies**,
+  Mingkun Xu, Huifeng Yin, Yujie Wu, Guoqi Li, Faqiang Liu, Jing Pei, Shuai Zhong, Lei Deng
+  [[Paper](https://arxiv.org/abs/2407.20508)] 
+
+* [ECCV2024] **Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**, arXiv:2407.20708, 
+  Xinhao Luo, Man Yao, Yuhong Chou, Bo Xu, Guoqi Li. 
+  [[Paper](https://arxiv.org/abs/2407.20708)]
+  [[Code](https://github.com/BICLab/SpikeYOLO)] 
 
 * [arXiv:2407.20099] **RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding**,
   Keming Wu, Man Yao, Yuhong Chou, Xuerui Qiu, Rui Yang, Bo Xu, Guoqi Li
