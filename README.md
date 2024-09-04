@@ -89,6 +89,11 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 ### Year 2024 
 
 
+* **ReSpike: Residual Frames-based Hybrid Spiking Neural Networks for Efficient Action Recognition**,
+  Shiting Xiao, Yuhang Li, Youngeun Kim, Donghyun Lee, Priyadarshini Panda
+  [[Paper](https://arxiv.org/abs/2409.01564)]
+  [[Code](https://github.com/GinnyXiao/ReSpike)] 
+ 
 * [arXiv:2407.20508] **Unveiling the Potential of Spiking Dynamics in Graph Representation Learning through Spatial-Temporal Normalization and Coding Strategies**,
   Mingkun Xu, Huifeng Yin, Yujie Wu, Guoqi Li, Faqiang Liu, Jing Pei, Shuai Zhong, Lei Deng
   [[Paper](https://arxiv.org/abs/2407.20508)] 
