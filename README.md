@@ -89,6 +89,10 @@ neuromorphic processors such as the IBM TrueNorth [[Paper](http://paulmerolla.co
 ### Year 2024 
 
 
+* [Remote Sensing] **Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**,
+  Dexin Duan, Peilin liu, Fei Wen
+  [[Paper](https://arxiv.org/abs/2409.02146)]
+ 
 * **ReSpike: Residual Frames-based Hybrid Spiking Neural Networks for Efficient Action Recognition**,
   Shiting Xiao, Yuhang Li, Youngeun Kim, Donghyun Lee, Priyadarshini Panda
   [[Paper](https://arxiv.org/abs/2409.01564)]
