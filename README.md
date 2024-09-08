@@ -19,6 +19,11 @@ Paper list for SNN or event camera based computer vision tasks.
 
 
 ## Survey && Reviews: 
+
+* Hu, Yangfan, Qian Zheng, Guoqi Li, Huajin Tang, and Gang Pan. "**Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions.**"
+  arXiv preprint arXiv:2409.02111 (2024).
+  [[Paper](https://arxiv.org/abs/2409.02111)] 
+
 * 神经形态视觉传感器的研究进展及应用综述，计算机学报，李家宁 田永鸿 [[Paper](https://drive.google.com/file/d/1d7igUbIrEWxmUI7xq75P6h_I4H7uI3FA/view?usp=sharing)] 
 
 * Spiking Neural Networks and Online Learning: An Overview and Perspectives, Neural Networks 121 (2020): 88-100. Jesus L. Lobo, Javier Del Ser, Albert Bifet, Nikola Kasabov [[Paper](https://arxiv.org/pdf/1908.08019.pdf)]
